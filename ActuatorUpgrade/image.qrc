@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/back">
+        <file>Picture/innfos.png</file>
+    </qresource>
+</RCC>
